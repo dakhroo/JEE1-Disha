@@ -104,3 +104,6 @@
     "bufferutil": "^4.0.8"
   }
 }
+"homepage": "https://dakhroo.github.io/JEE1-Disha"
+"predeploy": "npm run build",
+"deploy": "gh-pages -d dist"
